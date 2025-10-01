@@ -108,5 +108,5 @@ AI-powered research assistance tool for academic and professional use.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aky47bolt@gmail.com)  
 
 </div>
-
+## 🐍 Contribution Snake <div align="center"> <img src="https://raw.githubusercontent.com/AakashYadv/AakashYadv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div> --- <div align="center"> <b>Thanks for visiting my profile! Feel free to star ⭐ my repositories if you find them interesting!</b> <br><br> <img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" /> </div>
 
