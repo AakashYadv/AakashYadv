@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 **Computer Science Engineering Student** 
+🎓 **Computer Science Engineering Student**  /
 💻 Passionate about **Web Development**, **Machine Learning**, and **Deep Learning**  
 🔭 Currently working on **Front End Projects** and **AI/ML Applications**  
 🌱 Learning **MERN Stack**, **Deep Learning**, and **Cloud Technologies**  
