@@ -35,11 +35,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -56,10 +52,8 @@
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
 
@@ -86,15 +80,21 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 [Image Face Detection](https://github.com/AakashYadv/Image_face_detection)
-Advanced face detection system using Python and OpenCV with machine learning capabilities.
-- **Tech Stack:** Python, OpenCV, Machine Learning
-- **Features:** Real-time face detection, Multiple face recognition, High accuracy
+
+### [AI-Meeting-Summarizer](https://github.com/AakashYadv/AI-Meeting-Summarizer)  
+A minimal full-stack app that lets users submit meeting transcripts (or paste text), add custom instructions, and generate AI-powered summaries. Users can then edit the summary and share it via email.  
+- **Tech Stack:** Python (Flask), Groq LLM, HTML / JavaScript, SendGrid / SMTP  
+- **Features:** Upload or paste transcripts, Custom summarization prompts, Editable summaries, Email sharing, Render deployment support
 
 ### 💬 [Chat Application](https://github.com/AakashYadv/ChatApp)
 Real-time chat application with modern UI and robust backend.
 - **Tech Stack:** PHP, MySQL, JavaScript, WebSockets
 - **Features:** Real-time messaging, User authentication, Responsive design
+ 
+### 🔍 [Image Face Detection](https://github.com/AakashYadv/Image_face_detection)
+Advanced face detection system using Python and OpenCV with machine learning capabilities.
+- **Tech Stack:** Python, OpenCV, Machine Learning
+- **Features:** Real-time face detection, Multiple face recognition, High accuracy
 
 ### 🤖 [Re-Identification System](https://github.com/AakashYadv/Re-Indetification)
 Person re-identification system using deep learning techniques.
@@ -112,7 +112,7 @@ AI-powered research assistance tool for academic and professional use.
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-yadav-b2b524257/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aakashyadav.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aky47bolt@gmail.com)
 
 </div>
 
