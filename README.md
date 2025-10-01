@@ -1,8 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Aakash Yadav!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front End Developer;AI%2FML+Enthusiast;Computer+Science+Student;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AakashYadv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
