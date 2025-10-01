@@ -103,7 +103,7 @@ AI-powered research assistance tool for academic and professional use.
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/aakashyada](https://www.linkedin.com/in/aakash-yadav-b2b524257)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashyada](https://www.linkedin.com/in/aakash-yadav-b2b524257).
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aakashyadav.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aky47bolt@gmail.com)
 
