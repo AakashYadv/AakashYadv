@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Aakash Yadav!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Computer+Science+Student;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front End Developer;AI%2FML+Enthusiast;Computer+Science+Student;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 🎓 **Computer Science Engineering Student** specializing in **AI & Machine Learning**  
 💻 Passionate about **Web Development**, **Machine Learning**, and **Deep Learning**  
-🔭 Currently working on **Full Stack Projects** and **AI/ML Applications**  
+🔭 Currently working on **Front End Projects** and **AI/ML Applications**  
 🌱 Learning **MERN Stack**, **Deep Learning**, and **Cloud Technologies**  
 👯 Looking to collaborate on **Open Source Projects**  
 💬 Ask me about **Python, JavaScript, React, Node.js, Machine Learning**  
@@ -111,8 +111,7 @@ AI-powered research assistance tool for academic and professional use.
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashyadav)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aakashyadv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-yadav-b2b524257/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aakashyadav.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
@@ -124,11 +123,7 @@ AI-powered research assistance tool for academic and professional use.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AakashYadv/AakashYadv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 
