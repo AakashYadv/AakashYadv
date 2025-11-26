@@ -57,19 +57,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AakashYadv&show_icons=true&theme=radical&hide_border=true" alt="Aakash's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashYadv&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashYadv&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AakashYadv&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
